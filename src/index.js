@@ -1,4 +1,3 @@
-import 'core-js/es7/reflect';
 import React from "react";
 import ReactDOM from "react-dom";
 
